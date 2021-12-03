@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+    background-color: pink;
+    background-image: url('image.jpg');
+    background-repeat:repeat-y;
+    background-size: cover;
+
+
+}
+.mainh{
+    text-decoration: underline ;
+    
+}
+.content {
+    position: absolute; 
+    top: 0; 
+
+
+    padding: 0px; 
+  }
+
+.content{
+    zoom: 150%;
+    color: black;
+    
+}
+
+table, th, td {
+    font-size: medium;
+    
+    padding: 2px;
+    border:2px solid rgb(230, 14, 14);
+
+   
+}
+
+table{
+    
+    width: 100%;
+}
